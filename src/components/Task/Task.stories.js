@@ -16,10 +16,12 @@ Default.args = {
 		state: 'TASK_INBOX',
 		updatedAt: new Date(2021, 0, 1, 9, 0),
 	},
+	onArchiveTask: () => console.log("onArchiveTask clicked"),
 };
 
 export const Pinned = Template.bind({});
 Pinned.args = {
+	...Default.args,
 	task: {
 		...Default.args.task,
 		state: 'TASK_PINNED',
@@ -28,6 +30,7 @@ Pinned.args = {
 
 export const Archived = Template.bind({});
 Archived.args = {
+	...Default.args,
 	task: {
 		...Default.args.task,
 		state: 'TASK_ARCHIVED',
