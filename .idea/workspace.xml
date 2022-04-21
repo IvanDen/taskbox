@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19c393fd-af1a-411e-9367-e1f00b1885d2" name="Default Changelist" comment="Create storybook." />
+    <list default="true" id="19c393fd-af1a-411e-9367-e1f00b1885d2" name="Default Changelist" comment="Added chromatic here">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-storybook.log" beforeDir="false" afterPath="$PROJECT_DIR$/build-storybook.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650294705312</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added chromatic here">
+      <created>1650540152349</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1650540152349</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,6 +122,7 @@
     <MESSAGE value="Update gitignore file" />
     <MESSAGE value="Create taskList in storybook, and created test." />
     <MESSAGE value="Created inboxScreen, stories for inboxscreen. Added Store" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created inboxScreen, stories for inboxscreen. Added Store" />
+    <MESSAGE value="Added chromatic here" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added chromatic here" />
   </component>
 </project>
