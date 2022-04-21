@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19c393fd-af1a-411e-9367-e1f00b1885d2" name="Default Changelist" comment="Update gitignore">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-storybook.log" beforeDir="false" afterPath="$PROJECT_DIR$/build-storybook.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Task/Task.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Task/Task.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
