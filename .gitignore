@@ -24,4 +24,4 @@ yarn-debug.log*
 yarn-error.log*
 
 storybook-static
-/.idea/
+/.idea
